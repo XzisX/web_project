@@ -1,0 +1,46 @@
+body {
+    background: #2c2c2c;
+}
+main {
+    color: #fff;
+}
+
+aside img{
+    width: 60px;
+    float: left;
+    margin-left: 5px
+}
+
+aside .logo{
+    font-size: 30px;
+    margin-left: 12px;
+    font-weight: bold;
+    position: relative;
+    top: 10px;
+}
+
+aside h3 {
+    margin-top: 50px;
+    font-size: 25px;
+}
+
+aside ul {list-style: none}
+aside ul li {
+    color: #fff;
+    margin-top: 20px;
+    transition: transform .6s ease;
+}
+
+aside ul li:hover, aside ul a:hover {
+    color: #eb5959;
+    text-decoration: none;
+    transform: scale(1.05);
+}
+
+button {
+    margin-top: 20px;
+    margin-left: 1600px;
+}
+main {
+    color: #fff;
+}
